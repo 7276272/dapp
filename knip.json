@@ -1,0 +1,9 @@
+{
+  "cypress": false,
+  "ignore": [
+    "**/*.native.ts",
+    "**/*.web.ts",
+    "**/*.native.tsx",
+    "**/*.web.tsx"
+  ]
+}
