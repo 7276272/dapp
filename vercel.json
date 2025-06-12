@@ -3,7 +3,7 @@
   "outputDirectory": "apps/web/build",
   "installCommand": "yarn install",
   "framework": null,
-  "nodeVersion": "22",
+
   "env": {
     "REACT_APP_INFURA_KEY": "c167d55c2abb4c0fad5dba3107333036",
     "REACT_APP_ALCHEMY_API_KEY": "1lhaATkVANvh60-cB54xDlpUd1p3e3sk",
@@ -11,7 +11,7 @@
     "INCLUDE_PROTOTYPE_FEATURES": "true",
     "NODE_OPTIONS": "--max-old-space-size=8192"
   },
-  "regions": ["cle1"],
+
   "rewrites": [
     {
       "source": "/(.*)",
